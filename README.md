@@ -1,4 +1,4 @@
-# 💾 [Julio] - Engenheiro de Dados
+# 💾 [Julio ] - Engenheiro de Dados
 
 📍 [São Paulo, Brasil] | 🌐 [[LinkedIn](https://www.linkedin.com/in/juliohonorio/)]
 
@@ -18,7 +18,6 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Ferramentas & Frameworks**: Airflow, Kafka, dbt, Terraform
 - **Metodologias**: CI/CD, Git, Agile (Scrum/Kanban)
-
 ---
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
@@ -32,25 +31,12 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+
 </div>
+
 ---
 
 ## 📞 Contato
 - 📧 Email: [julio.marques18@hotmail.com](mailto:julio.marques18@hotmail.com)
 - 🔗 LinkedIn: [juliohonorio](https://www.linkedin.com/in/juliohonorio/)
 - 🌐 GitHub: [juliomhonorio](https://github.com/juliomhonorio)
-
-<!--
-**juliomhonorio/juliomhonorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
