@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# 💾 Julio - Engenheiro de Dados
+# 💾 [Julio] - Engenheiro de Dados
 
 📍 [São Paulo, Brasil] | 🌐 [[LinkedIn](https://www.linkedin.com/in/juliohonorio/)]
 
@@ -21,6 +18,20 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Ferramentas & Frameworks**: Airflow, Kafka, dbt, Terraform
 - **Metodologias**: CI/CD, Git, Agile (Scrum/Kanban)
+---
+
+![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
+
+---
+<div style="display: inline_block"><br />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</div>
 
 ---
 
@@ -28,7 +39,6 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 - 📧 Email: [julio.marques18@hotmail.com](mailto:julio.marques18@hotmail.com)
 - 🔗 LinkedIn: [juliohonorio](https://www.linkedin.com/in/juliohonorio/)
 - 🌐 GitHub: [juliomhonorio](https://github.com/juliomhonorio)
-
 
 <!--
 **juliomhonorio/juliomhonorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
