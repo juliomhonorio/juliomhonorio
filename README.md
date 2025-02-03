@@ -11,6 +11,8 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 
 ---
 
+![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
+---
 ## 🛠️ Habilidades Técnicas
 - **Linguagens**: Python, SQL, Bash
 - **Big Data**: Spark, Hadoop, Hive, Impala
@@ -18,9 +20,6 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Ferramentas & Frameworks**: Airflow, Kafka, dbt, Terraform
 - **Metodologias**: CI/CD, Git, Agile (Scrum/Kanban)
----
-
-![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
 
 
 <div style="display: inline_block"><br />
