@@ -18,6 +18,7 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Ferramentas & Frameworks**: Airflow, Kafka, dbt, Terraform
 - **Metodologias**: CI/CD, Git, Agile (Scrum/Kanban)
+
 ---
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
@@ -32,7 +33,6 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </div>
-
 ---
 
 ## 📞 Contato
