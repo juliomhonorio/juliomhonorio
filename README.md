@@ -1,7 +1,5 @@
 # 💾 [Julio ] - Engenheiro de Dados
 
-📍 [São Paulo, Brasil] | 🌐 [[LinkedIn](https://www.linkedin.com/in/juliohonorio/)]
-
 ---
 
 ## 🚀 Sobre Mim
@@ -16,7 +14,7 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 ## 🛠️ Habilidades Técnicas
 - **Linguagens**: Python, SQL, Bash
 - **Big Data**: Spark, Hadoop, Hive, Impala
-- **Cloud**: AWS (S3, Glue, Lambda),
+- **Cloud**: AWS (S3, Glue, Lambda)
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Ferramentas & Frameworks**: Airflow, Kafka, dbt, Terraform
 - **Metodologias**: CI/CD, Git, Agile (Scrum/Kanban)
