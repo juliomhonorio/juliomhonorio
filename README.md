@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 💾 [Julio ] - Engenheiro de Dados
+# 💾 Julio - Engenheiro de Dados
 
 📍 [São Paulo, Brasil] | 🌐 [[LinkedIn](https://www.linkedin.com/in/juliohonorio/)]
 
