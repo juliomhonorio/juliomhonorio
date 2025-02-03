@@ -1,7 +1,5 @@
 # 💾 [Julio ] - Engenheiro de Dados
 
----
-
 ## 🚀 Sobre Mim
 Sou um **Engenheiro de Dados** com mais de 4 anos de experiência, com expertise em análise e ingestão de dados. Tenho uma sólida compreensão dos desafios enfrentados em ambientes legados e estou focado em aprimorar minha experiência em Cloud Computing, explorando soluções modernas para otimização e escalabilidade de infraestruturas de dados. Atualmente, estou realizando uma pós-graduação em Engenharia de Dados para aprimorar ainda mais minha expertise.
 
