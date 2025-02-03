@@ -22,7 +22,7 @@ Sou reconhecido pela minha capacidade analítica e facilidade de aprendizado, al
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomhonorio&show_icons=true&theme=dracula)
 
----
+
 <div style="display: inline_block"><br />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
